@@ -1,4 +1,5 @@
 # Contributors
+
 - [asmallgod] (https://github.com/asmallgod)
 - [Neila Toofuny] (https://github.com/ntoofuny)
 - [Waris Anwar👨‍💻🚀](https://github.com/warisanwar)
@@ -7,6 +8,7 @@
 - [Bruce Snow](https://github.com/cbs42)
 - [Daniel Florea] (https://github.com/dfloreaa)
 - [Malaika Agrawal]
+- [Kinga Walawicz]
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
 - [Karan Shetty](https://github.com/shettykaran21/)
 - [Anugrah Dixit](https://github.com/anugrah3199)
